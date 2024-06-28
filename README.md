@@ -3,7 +3,7 @@
   <h3 align="center">Leading Web3 Infrastructure to Manage Real-World Assets (RWA)</h3>
   <img src="https://user-images.githubusercontent.com/25151724/214644164-61d5718b-fcf3-474e-9cdb-135836416e68.png" height="200">
   <br />
-  <p align="center">
+  <p align="center"> 
     <a href="https://discord.gg/twyWfTGd6m">
         <img src="https://img.shields.io/badge/Discord-6666FF?style=for-the-badge&logo=discord&logoColor=white">
     </a>
