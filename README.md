@@ -1,7 +1,8 @@
-<div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<div align="center"> 
   <h1 align="center">Carbon Protocol V3 on Starknet</h1>
   <h3 align="center">Leading Web3 Infrastructure to Manage Real-World Assets (RWA)</h3>
   <img src="https://user-images.githubusercontent.com/25151724/214644164-61d5718b-fcf3-474e-9cdb-135836416e68.png" height="200">
