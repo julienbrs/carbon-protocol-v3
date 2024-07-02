@@ -839,3 +839,12 @@ fn test_set_approval_for_all() {
 
     assert_eq!(status_now, false);
 }
+
+
+#[test]
+fn conv_to_byte_array(){
+    // let base_uri: felt252 = 'ipfs://QmSFXecKEpEZ8eKiMPjmgjVZgNAx6JE6NTg8AionJPZVV7/{id}.json';
+    let uri = 'TEST';
+    let base_uri_bytearray: ByteArray = format!("{}", uri);
+    println!("base_uri_bytearray: {}", base_uri_bytearray);
+}

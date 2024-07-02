@@ -12,7 +12,7 @@ do
 done
 
 SIERRA_FILE=../target/dev/carbon_v3_USDCarb.contract_class.json
-OWNER=0x01250AC88f300dcF578e4EA9ae6B16BB08004AFdc4cB0E5947192F7830612AA6
+OWNER=0x0251424ba0253188ce042669f50fcba2f1737222650050ba5af4d296b65b8996
 
 # build the solution
 build() {
